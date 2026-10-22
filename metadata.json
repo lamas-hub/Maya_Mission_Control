@@ -1,0 +1,6 @@
+{
+  "name": "Maya Mission Control: Operation Lunar Defense",
+  "description": "Desktop-first 3D educational arcade web app teaching Autodesk Maya-style controls, Channel Box, Attribute Editor, and Outliner through lunar asteroid defense missions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
